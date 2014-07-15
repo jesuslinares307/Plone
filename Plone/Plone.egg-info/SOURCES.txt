@@ -1,0 +1,10 @@
+setup.cfg
+setup.py
+Plone.egg-info/PKG-INFO
+Plone.egg-info/SOURCES.txt
+Plone.egg-info/dependency_links.txt
+Plone.egg-info/entry_points.txt
+Plone.egg-info/not-zip-safe
+Plone.egg-info/top_level.txt
+plone/__init__.py
+plone/main.py

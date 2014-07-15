@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: Plone
+Version: 0.1dev
+Summary: Ejercicio de conjuntos Plone
+Home-page: https://github.com/je
+Author: Jesus Linares
+Author-email: jesuslinares307@gmail.com
+License: GPL
+Description: Ejemplos de conjuntos basados en Plone, para demostrar como crear un paquete Egg Python.
+Keywords: package python Egg conjuntos Plone
+Platform: UNKNOWN
